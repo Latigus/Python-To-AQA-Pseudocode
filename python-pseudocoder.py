@@ -16,7 +16,7 @@
 
 #Enter the file name of the python file you want to convert below
 #You should use its full file path
-pythonFile = "test.py"
+pythonFile = "G:\COP1000\Project\GP3-CAR\TR11-GP3-Car-v12.py"
 
 
 
